@@ -1,0 +1,49 @@
+Baby_Id,Cond_Btw_Subj,Outcome WITHIN ,babyname,age group,age (mmdd),Language,ExperimentName,BASELINE TLP,TEST TLP,INCREASE TLP
+82,none,KT,Pere,none,1912,none,MutualExclusivity,0.5402991,0.54821616,0.00791706
+82,none,ME,Pere,none,1912,none,MutualExclusivity,0,0,0
+70,none,KT,Romeu,none,1901,none,MutualExclusivity,,,
+70,none,ME,Romeu,none,1901,none,MutualExclusivity,,,
+35,none,KT,Eric,none,1814,none,MutualExclusivity,0.47099591,0.56370277,0.09270686
+35,none,ME,Eric,none,1814,none,MutualExclusivity,0.326438,0.14582898,-0.18060902
+15,none,KT,Aleix,none,2514,none,MutualExclusivity,0.49367489,0.71942777,0.22575288
+15,none,ME,Aleix,none,2514,none,MutualExclusivity,0.35924095,0.51354145,0.1543005
+91,none,KT,Laura,none,1814,none,MutualExclusivity,0.00340136,0,-0.00340136
+91,none,ME,Laura,none,1814,none,MutualExclusivity,0.34615385,0.56372549,0.21757164
+74,none,KT,Iris,none,2005,none,MutualExclusivity,0.56774981,0.6713346,0.1035848
+74,none,ME,Iris,none,2005,none,MutualExclusivity,0.23380992,0.18400913,-0.04980079
+87,none,KT,Naomy,none,2015,none,MutualExclusivity,0.44988756,0.57554093,0.12565338
+87,none,ME,Naomy,none,2015,none,MutualExclusivity,0.47355582,0.2937365,-0.17981932
+110,none,KT,Anna,none,1821,none,MutualExclusivity,0.51785173,0.6325393,0.11468757
+110,none,ME,Anna,none,1821,none,MutualExclusivity,0.33115646,0.55640863,0.22525217
+11,none,KT,Lucia,none,1821,none,MutualExclusivity,0.5131839,0.48431703,-0.02886687
+11,none,ME,Lucia,none,1821,none,MutualExclusivity,0.48407013,0.32509776,-0.15897237
+101,none,KT,Ian ,none,1816,none,MutualExclusivity,0.45961552,0.60782433,0.14820881
+101,none,ME,Ian ,none,1816,none,MutualExclusivity,0.43691503,0.27401714,-0.16289789
+97,none,KT,Aitana,none,1728,none,MutualExclusivity,0.40854453,0.53619021,0.12764567
+97,none,ME,Aitana,none,1728,none,MutualExclusivity,0.35067961,0.17355909,-0.17712052
+107,none,KT,Sara,none,2001,none,MutualExclusivity,0.55746236,0.5952736,0.03781124
+107,none,ME,Sara,none,2001,none,MutualExclusivity,0.2456804,0.19569118,-0.04998922
+115,none,KT,Oriol,none,1920,none,MutualExclusivity,0.45191869,0.62145662,0.16953793
+115,none,ME,Oriol,none,1920,none,MutualExclusivity,0.32649164,0.24764142,-0.07885023
+125,none,KT,Roc ,none,1913,none,MutualExclusivity,0.57182023,0.8204225,0.24860226
+125,none,ME,Roc ,none,1913,none,MutualExclusivity,0,0.25706675,0.25706675
+128,none,KT,Lluc,none,1929,none,MutualExclusivity,0.41421866,0.61479251,0.20057385
+128,none,ME,Lluc,none,1929,none,MutualExclusivity,0.25943528,0.06680978,-0.1926255
+124,none,KT,Pablo,none,2018,none,MutualExclusivity,0.50360221,0.39754541,-0.10605681
+124,none,ME,Pablo,none,2018,none,MutualExclusivity,0.37058519,0.26566921,-0.10491598
+132,none,KT,Lisa,none,1926,none,MutualExclusivity,0.450839,0.47869605,0.02785705
+132,none,ME,Lisa,none,1926,none,MutualExclusivity,0.5260616,0.45297147,-0.07309014
+131,none,KT,Arnau,none,2010,none,MutualExclusivity,0.61528603,0.69881429,0.08352826
+131,none,ME,Arnau,none,2010,none,MutualExclusivity,0,0,0
+142,none,KT,Eric,none,2010,none,MutualExclusivity,0.4543031,0.58835249,0.13404939
+142,none,ME,Eric,none,2010,none,MutualExclusivity,0.31173615,0.25501938,-0.05671677
+103,none,KT,Valeri,none,2410,none,MutualExclusivity,0.49926093,0.78732539,0.28806447
+103,none,ME,Valeri,none,2410,none,MutualExclusivity,0.39826849,0.52080737,0.12253887
+142,none,KT,Irene,none,1916,none,MutualExclusivity,0.57559039,0.56960557,-0.00598482
+142,none,ME,Irene,none,1916,none,MutualExclusivity,0.23920837,0.28656841,0.04736004
+45,none,KT,Elsa,none,2300,none,MutualExclusivity,,,
+45,none,ME,Elsa,none,2300,none,MutualExclusivity,,,
+103,none,KT,Louis,none,1913,none,MutualExclusivity,,,
+103,none,ME,Louis,none,1913,none,MutualExclusivity,,,
+90,none,KT,Eric,none,2523,none,MutualExclusivity,,,
+90,none,ME,Eric,none,2523,none,MutualExclusivity,,,
